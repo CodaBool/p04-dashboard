@@ -1,0 +1,6 @@
+{
+  "name": "p04-dashboard-main",
+  "region": "us-east-1",
+  "accelerated": false,
+  "url": "https://p04-dashboard-main.s3.amazonaws.com"
+}
