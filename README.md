@@ -10,7 +10,7 @@ The original Dashboard uses an express server to serve live data from Jenkins lo
 The original Dashboard then fetches from this server to get the json data for constructing the grid
 
 # View live
-https://codabool.com/projects/5
+http://p4.codabool.com
 
 # Dependencies
 - Grid made with ag-grid
